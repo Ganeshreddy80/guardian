@@ -17,7 +17,12 @@ GUARDIAN analyzes your transactions, identifies wasteful subscriptions, evaluate
 
 ---
 
+## 🎥 Demo
+
+![Demo](assets/demo.gif)
+
 ## 📸 Screenshots
+
 
 ### Dashboard
 ![Dashboard](assets/dashboard.png)
