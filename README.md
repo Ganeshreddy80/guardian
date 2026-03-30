@@ -25,7 +25,6 @@ GUARDIAN analyzes your transactions, identifies wasteful subscriptions, evaluate
 ### Telegram Alert
 ![Telegram](assets/telegram.png)
 
-> Add your actual screenshots to an `assets/` folder in your repo
 
 ---
 
@@ -140,5 +139,5 @@ guardian/
 
 **Ganesh Kumar Reddy**
 - GitHub: https://github.com/Ganeshreddy80
-- LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/a-ganesh-kumar-reddy-b00686379/?skipRedirect=true
+- LinkedIn: https://www.linkedin.com/in/a-ganesh-kumar-reddy-b00686379/
 -# guardian-
