@@ -1,0 +1,11 @@
+id,type,amount,source,category,usage_days
+t01,income,50000,Client A,freelance,0
+t02,expense,950,Notion Pro,subscription,0
+t03,expense,990,ClickUp,subscription,1
+t04,expense,800,Linear,subscription,28
+t05,expense,1200,Figma,tool,22
+t06,expense,500,Food,personal,0
+t07,income,35000,Client B,freelance,0
+t08,expense,800,Transport,personal,0
+ ⁠
+
